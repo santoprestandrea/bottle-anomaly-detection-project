@@ -1,4 +1,4 @@
-# bottle-anomaly-detection-project# Industrial Anomaly Detection — MVTec Bottle Category
+# Industrial Anomaly Detection — MVTec Bottle Category
  
 A Computer Vision pipeline for unsupervised anomaly detection on industrial images,
 built as the final project for the *Introduction to Computer Vision* course at Epicode Institute of Technology.
